@@ -1,0 +1,14 @@
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\bin\Debug\net8.0\05_higher-lower.exe
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\bin\Debug\net8.0\05_higher-lower.deps.json
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\bin\Debug\net8.0\05_higher-lower.runtimeconfig.json
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\bin\Debug\net8.0\05_higher-lower.dll
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\bin\Debug\net8.0\05_higher-lower.pdb
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.AssemblyInfoInputs.cache
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.AssemblyInfo.cs
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.csproj.CoreCompileInputs.cache
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.dll
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\refint\05_higher-lower.dll
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.pdb
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\05_higher-lower.genruntimeconfig.cache
+C:\Users\mcalb\Documents\Software Dev Schooljaar 2024-2025\Programmeren\periode 1\Gemaakte Opdrachten\05_higher-lower\obj\Debug\net8.0\ref\05_higher-lower.dll
